@@ -12,3 +12,10 @@ body{
     min-height: 100vh;
     background-color: #23242a;
 }
+.box{
+    position: relative;
+    width: 400px;
+    height: 450px;
+    background-color: #1c1c1c;
+    border-radius: 8px;
+}
